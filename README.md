@@ -1,4 +1,7 @@
 # RFID_TI_glass_tube_RI-TRP-DR2B_testing
+
+![TI_RFID_RI-TRP-DR2B.jpg](TI_RFID_RI-TRP-DR2B.jpg)  
+
 TI glass tube RFID device, TI P/N RI-TRP-DR2B
 
 https://www.ti.com/product/zh-tw/RI-TRP-DR2B  
